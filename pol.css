@@ -1,8 +1,72 @@
-.9pxgreen {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; line-height: 18px; color: #009900}
-.9pxgreenbold { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; line-height: 18px; color: #009900 ; font-weight: bold}
-.9pxorange { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; line-height: 18px; color: #CC6600}
-.9pxorangebold { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; line-height: 18px; color: #CC6600; font-weight: bold }
-.9pxblue { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; line-height: 18px; color: #6666CC}
-.9pxbluebold { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; line-height: 18px; color: #6666CC; font-weight: bold }
-.9pxbrown { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; line-height: 18px; color: #663300}
-.9pxbrownbold { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; line-height: 18px; color: #663300; font-weight: bold }
+/* Pol CSS */
+
+.ninepxgreen {
+        font-family: Verdana,
+        Arial,
+        Helvetica,
+        sans-serif;
+        font-size: 9px;
+        font-style: normal;
+        line-height: 18px;
+        color: #009900
+}
+
+.ninepxgreenbold {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px;
+        font-style: normal;
+        line-height: 18px;
+        color: #009900;
+        font-weight: bold
+}
+
+.ninepxorange {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px;
+        font-style: normal;
+        line-height: 18px;
+        color: #CC6600
+}
+
+.ninepxorangebold {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px;
+        font-style: normal;
+        line-height: 18px;
+        color: #CC6600;
+        font-weight: bold
+}
+
+.ninepxblue {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px;
+        font-style: normal;
+        line-height: 18px;
+        color: #6666CC
+}
+
+.ninepxbluebold {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px;
+        font-style: normal;
+        line-height: 18px;
+        color: #6666CC;
+        font-weight: bold
+}
+
+.ninepxbrown {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px;
+        font-style: normal;
+        line-height: 18px;
+        color: #663300
+}
+
+.ninepxbrownbold {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px;
+        font-style: normal;
+        line-height: 18px;
+        color: #663300;
+        font-weight: bold
+}
