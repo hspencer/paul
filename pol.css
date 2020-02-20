@@ -1,6 +1,6 @@
 /* Pol CSS */
 
-.ninepxgreen {
+.green {
         font-family: Verdana,
         Arial,
         Helvetica,
@@ -11,7 +11,7 @@
         color: #009900
 }
 
-.ninepxgreenbold {
+.greenbold {
         font-family: Verdana, Arial, Helvetica, sans-serif;
         font-size: 9px;
         font-style: normal;
@@ -20,7 +20,7 @@
         font-weight: bold
 }
 
-.ninepxorange {
+.orange {
         font-family: Verdana, Arial, Helvetica, sans-serif;
         font-size: 9px;
         font-style: normal;
@@ -28,7 +28,7 @@
         color: #CC6600
 }
 
-.ninepxorangebold {
+.orangebold {
         font-family: Verdana, Arial, Helvetica, sans-serif;
         font-size: 9px;
         font-style: normal;
@@ -37,7 +37,7 @@
         font-weight: bold
 }
 
-.ninepxblue {
+.blue {
         font-family: Verdana, Arial, Helvetica, sans-serif;
         font-size: 9px;
         font-style: normal;
@@ -45,7 +45,7 @@
         color: #6666CC
 }
 
-.ninepxbluebold {
+.bluebold {
         font-family: Verdana, Arial, Helvetica, sans-serif;
         font-size: 9px;
         font-style: normal;
@@ -54,7 +54,7 @@
         font-weight: bold
 }
 
-.ninepxbrown {
+.brown {
         font-family: Verdana, Arial, Helvetica, sans-serif;
         font-size: 9px;
         font-style: normal;
@@ -62,7 +62,7 @@
         color: #663300
 }
 
-.ninepxbrownbold {
+.brownbold {
         font-family: Verdana, Arial, Helvetica, sans-serif;
         font-size: 9px;
         font-style: normal;
